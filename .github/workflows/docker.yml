@@ -25,7 +25,7 @@ jobs:
           cp ./docker/prod/Dockerfile ./Dockerfile
       - name: Build & Push
         id: build_and_push
-        uses: elgohr/Publish-Docker-Github-Action@master
+        uses: elgohr/Publish-Docker-Github-Action@v5
         with:
           name: openproject/community
           username: ${{ secrets.DOCKER_USERNAME }}
