@@ -615,7 +615,7 @@ GEM
     net-smtp (0.3.3)
       net-protocol
     netrc (0.11.0)
-    nio4r (2.5.8)
+    nio4r (2.5.9)
     nokogiri (1.14.2)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
@@ -692,7 +692,7 @@ GEM
       eventmachine_httpserver
       http_parser.rb (~> 0.6.0)
       multi_json
-    puma (6.1.1)
+    puma (6.3.1)
       nio4r (~> 2.0)
     puma-plugin-statsd (2.4.0)
       puma (>= 5.0, < 7)
@@ -1079,7 +1079,7 @@ DEPENDENCIES
   pry-rails (~> 0.3.6)
   pry-rescue (~> 1.5.2)
   puffing-billy (~> 3.0.0)
-  puma (~> 6.1)
+  puma (~> 6.3)
   puma-plugin-statsd (~> 2.0)
   rack-attack (~> 6.6.0)
   rack-cors (~> 1.1.1)
