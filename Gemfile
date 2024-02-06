@@ -179,7 +179,7 @@ gem 'puma', '~> 6.4'
 gem 'puma-plugin-statsd', '~> 2.0'
 gem 'rack-timeout', '~> 0.6.3', require: "rack/timeout/base"
 
-gem 'nokogiri', '~> 1.14.3'
+gem 'nokogiri', '~> 1.16.2'
 
 gem 'carrierwave', '~> 2.2.5'
 gem 'carrierwave_direct', '~> 2.1.0'
