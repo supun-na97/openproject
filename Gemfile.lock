@@ -603,7 +603,7 @@ GEM
     mime-types-data (3.2023.1003)
     mini_magick (4.12.0)
     mini_mime (1.1.5)
-    mini_portile2 (2.8.5)
+    mini_portile2 (2.8.6)
     minisyntax (0.2.5)
     minitest (5.22.3)
     msgpack (1.6.0)
@@ -626,7 +626,7 @@ GEM
       net-protocol
     netrc (0.11.0)
     nio4r (2.7.0)
-    nokogiri (1.16.2)
+    nokogiri (1.16.5)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     oj (3.14.2)
@@ -1053,7 +1053,7 @@ DEPENDENCIES
   multi_json (~> 1.15.0)
   my_page!
   net-ldap (~> 0.17.0)
-  nokogiri (~> 1.16.2)
+  nokogiri (~> 1.16.5)
   oj (~> 3.14.0)
   okcomputer (~> 1.18.1)
   omniauth!
